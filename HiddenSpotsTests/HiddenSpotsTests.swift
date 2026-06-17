@@ -29,4 +29,10 @@ struct HiddenSpotsTests {
         #expect(spot.coordinate.latitude == 48.8566)
         #expect(spot.spotCategory == .architecture)
     }
+    
+    @Test func spotCredits() async throws {
+        let spots = SpotService.shared.loadSpots()
+        #expect(spots.first?.photoCredits.isEmpty == false)
+        #expect(spots.first?.photoCredits.first?.source == "Unsplash")
+    }
 }

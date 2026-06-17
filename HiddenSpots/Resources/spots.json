@@ -9,9 +9,26 @@
     "crowdLevel": 2,
     "accessDifficulty": "easy",
     "bestTime": "Sunset",
-    "descriptionText": "Best panoramic view of Lisbon with São Jorge Castle and the Tagus River. Less crowded than other miradouros.",
-    "tips": "Arrive 30 minutes before sunset. A 24-70mm lens is ideal. Summer light hits the castle perfectly.",
-    "examplePhotoURLs": [],
+    "descriptionText": "The best panoramic view of Lisbon with São Jorge Castle and the Tagus River. Less crowded than other miradouros and perfect for golden hour shots.",
+    "tips": "Arrive 30 minutes before sunset. A 24-70mm lens is ideal. The castle lights up beautifully in summer light.",
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=800&q=80",
+      "https://images.pexels.com/photos/532826/pexels-photo-532826.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/532826/pexels-photo-532826.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
     "isPremium": true
   },
   {
@@ -25,8 +42,25 @@
     "accessDifficulty": "easy",
     "bestTime": "Early morning",
     "descriptionText": "Famous pink-painted street in Cais do Sodré. Great for colorful street photography and neon signs at night.",
-    "tips": "Go before 8 AM to avoid crowds and capture clean compositions.",
-    "examplePhotoURLs": [],
+    "tips": "Go before 8 AM to avoid crowds and capture clean compositions. The neon signs become magical after dark.",
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800&q=80",
+      "https://images.pexels.com/photos/466685/pexels-photo-466685.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/466685/pexels-photo-466685.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
     "isPremium": false
   },
   {
@@ -39,9 +73,90 @@
     "crowdLevel": 3,
     "accessDifficulty": "easy",
     "bestTime": "Golden hour",
-    "descriptionText": "Industrial-chic rooftop with views of the 25 de Abril Bridge. Great for portraits and urban shots.",
-    "tips": "Access through the main LX Factory building elevator. Best light in late afternoon.",
-    "examplePhotoURLs": [],
+    "descriptionText": "Industrial-chic rooftop with views of the 25 de Abril Bridge. Great for portraits and urban shots with an edge.",
+    "tips": "Access through the main LX Factory building elevator. Best light in late afternoon when the bridge turns golden.",
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=800&q=80",
+      "https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
+    "isPremium": true
+  },
+  {
+    "name": "Alfama Rooftops from Largo das Portas do Sol",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "latitude": 38.7125,
+    "longitude": -9.1298,
+    "category": "sunrise",
+    "crowdLevel": 3,
+    "accessDifficulty": "easy",
+    "bestTime": "Sunrise",
+    "descriptionText": "Classic Alfama viewpoint with terracotta rooftops leading down to the river. A sunrise must-shoot in Lisbon.",
+    "tips": "Arrive at blue hour. Use a 35mm or 50mm for compressed rooftops. Morning light hits the tiles perfectly.",
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=800&q=80",
+      "https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
+    "isPremium": true
+  },
+  {
+    "name": "MAAT from Belém Riverside",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "latitude": 38.6958,
+    "longitude": -9.1947,
+    "category": "architecture",
+    "crowdLevel": 2,
+    "accessDifficulty": "easy",
+    "bestTime": "Blue hour",
+    "descriptionText": "The Museum of Art, Architecture and Technology offers stunning curves and reflections against the river. A minimalist architecture gem.",
+    "tips": "Shoot from the riverside path for reflections. Blue hour makes the white tiles glow against the dark sky.",
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800&q=80",
+      "https://images.pexels.com/photos/1142950/pexels-photo-1142950.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/1142950/pexels-photo-1142950.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
     "isPremium": true
   },
   {
@@ -54,9 +169,26 @@
     "crowdLevel": 5,
     "accessDifficulty": "easy",
     "bestTime": "Sunrise",
-    "descriptionText": "Classic Eiffel Tower viewpoint. Iconic but crowded — worth it at the right time.",
+    "descriptionText": "The classic Eiffel Tower viewpoint. Iconic but crowded — absolutely worth it at the right time.",
     "tips": "Arrive before 6:30 AM for an almost empty Trocadéro. Use a telephoto lens to compress the tower.",
-    "examplePhotoURLs": [],
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800&q=80",
+      "https://images.pexels.com/photos/2404843/pexels-photo-2404843.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/2404843/pexels-photo-2404843.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
     "isPremium": false
   },
   {
@@ -69,9 +201,122 @@
     "crowdLevel": 4,
     "accessDifficulty": "easy",
     "bestTime": "Morning",
-    "descriptionText": "Colorful houses street perfect for portraits and vibrant travel shots.",
+    "descriptionText": "Colorful houses street perfect for portraits and vibrant travel shots. One of Paris' most Instagrammable alleys.",
     "tips": "Be respectful — it's a residential street. Early morning = best light + fewer tourists.",
-    "examplePhotoURLs": [],
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=800&q=80",
+      "https://images.pexels.com/photos/208745/pexels-photo-208745.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/208745/pexels-photo-208745.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
+    "isPremium": true
+  },
+  {
+    "name": "Pont de Bir-Hakeim",
+    "city": "Paris",
+    "country": "France",
+    "latitude": 48.8556,
+    "longitude": 2.2876,
+    "category": "architecture",
+    "crowdLevel": 3,
+    "accessDifficulty": "easy",
+    "bestTime": "Sunset",
+    "descriptionText": "Art deco bridge with the Eiffel Tower perfectly framed at the end. A favorite for cinematic Paris shots.",
+    "tips": "Stand in the middle of the bridge for symmetry. Best at sunset when the tower backlights.",
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1503917988258-f87a78e3c995?w=800&q=80",
+      "https://images.pexels.com/photos/2417842/pexels-photo-2417842.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1503917988258-f87a78e3c995?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/2417842/pexels-photo-2417842.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
+    "isPremium": true
+  },
+  {
+    "name": "Montmartre Vineyards",
+    "city": "Paris",
+    "country": "France",
+    "latitude": 48.8881,
+    "longitude": 2.3424,
+    "category": "nature",
+    "crowdLevel": 2,
+    "accessDifficulty": "moderate",
+    "bestTime": "Morning",
+    "descriptionText": "A hidden vineyard in the heart of Montmartre, offering a peaceful green break with village charm.",
+    "tips": "Visit in late summer when the vines are full. Combine with a walk through Place du Tertre.",
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800&q=80",
+      "https://images.pexels.com/photos/1647972/pexels-photo-1647972.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/1647972/pexels-photo-1647972.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
+    "isPremium": true
+  },
+  {
+    "name": "La Défense from Pont de Neuilly",
+    "city": "Paris",
+    "country": "France",
+    "latitude": 48.8848,
+    "longitude": 2.2524,
+    "category": "skyline",
+    "crowdLevel": 2,
+    "accessDifficulty": "easy",
+    "bestTime": "Blue hour",
+    "descriptionText": "Modern skyline of La Défense framed along the Seine. A striking contrast to historic Paris.",
+    "tips": "Use a tripod for blue hour long exposures. The Grande Arche aligns beautifully from the bridge.",
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=800&q=80",
+      "https://images.pexels.com/photos/3052361/pexels-photo-3052361.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/3052361/pexels-photo-3052361.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
     "isPremium": true
   },
   {
@@ -84,16 +329,33 @@
     "crowdLevel": 4,
     "accessDifficulty": "easy",
     "bestTime": "Blue hour",
-    "descriptionText": "360-degree rooftop observatory overlooking Shibuya Crossing and Tokyo skyline.",
+    "descriptionText": "360-degree rooftop observatory overlooking Shibuya Crossing and the Tokyo skyline. A must for urban photographers.",
     "tips": "Book tickets in advance for sunset slots. No tripods allowed on the rooftop.",
-    "examplePhotoURLs": [],
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=800&q=80",
+      "https://images.pexels.com/photos/1765731/pexels-photo-1765731.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/1765731/pexels-photo-1765731.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
     "isPremium": true
   },
   {
     "name": "Omoide Yokocho",
     "city": "Tokyo",
     "country": "Japan",
-    "latitude": 35.6930,
+    "latitude": 35.693,
     "longitude": 139.6992,
     "category": "neon",
     "crowdLevel": 4,
@@ -101,7 +363,440 @@
     "bestTime": "Night",
     "descriptionText": "Narrow alley of tiny yakitori stalls with glowing lanterns — classic Tokyo night photography.",
     "tips": "Bring a fast lens (f/1.8 or wider). Respect diners and don't block the narrow path.",
-    "examplePhotoURLs": [],
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1536098561742-ca998e48cbcc?w=800&q=80",
+      "https://images.pexels.com/photos/1485894/pexels-photo-1485894.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1536098561742-ca998e48cbcc?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/1485894/pexels-photo-1485894.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
     "isPremium": false
+  },
+  {
+    "name": "TeamLab Planets",
+    "city": "Tokyo",
+    "country": "Japan",
+    "latitude": 35.6491,
+    "longitude": 139.7887,
+    "category": "architecture",
+    "crowdLevel": 3,
+    "accessDifficulty": "easy",
+    "bestTime": "Anytime",
+    "descriptionText": "Immersive digital art museum with mirror rooms, LED flowers, and infinite reflections. Surreal photo opportunities.",
+    "tips": "Wear shorts or pants you can roll up — some rooms are water-based. Wide angle lens recommended.",
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?w=800&q=80",
+      "https://images.pexels.com/photos/1603650/pexels-photo-1603650.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/1603650/pexels-photo-1603650.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
+    "isPremium": true
+  },
+  {
+    "name": "Yanaka Ginza Cat Street",
+    "city": "Tokyo",
+    "country": "Japan",
+    "latitude": 35.7285,
+    "longitude": 139.7658,
+    "category": "street",
+    "crowdLevel": 2,
+    "accessDifficulty": "easy",
+    "bestTime": "Afternoon",
+    "descriptionText": "Old-school Tokyo shopping street with a nostalgic atmosphere, cat motifs, and traditional storefronts.",
+    "tips": "Best on sunny afternoons for warm light on the wooden shops. Look for the cat-themed details.",
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1542051841857-5f90071e7989?w=800&q=80",
+      "https://images.pexels.com/photos/1486222/pexels-photo-1486222.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1542051841857-5f90071e7989?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/1486222/pexels-photo-1486222.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
+    "isPremium": true
+  },
+  {
+    "name": "Tokyo Metropolitan Gov Building South Tower",
+    "city": "Tokyo",
+    "country": "Japan",
+    "latitude": 35.6896,
+    "longitude": 139.6917,
+    "category": "skyline",
+    "crowdLevel": 2,
+    "accessDifficulty": "easy",
+    "bestTime": "Sunset",
+    "descriptionText": "Free observatory with sweeping views of Tokyo, and on clear days, Mount Fuji. Far less crowded than paid towers.",
+    "tips": "Go at sunset and stay for blue hour. Tripods are usually allowed but check current rules.",
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?w=800&q=80",
+      "https://images.pexels.com/photos/236148/pexels-photo-236148.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/236148/pexels-photo-236148.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
+    "isPremium": true
+  },
+  {
+    "name": "DUMBO Manhattan Bridge",
+    "city": "New York",
+    "country": "USA",
+    "latitude": 40.7033,
+    "longitude": -73.9881,
+    "category": "architecture",
+    "crowdLevel": 5,
+    "accessDifficulty": "easy",
+    "bestTime": "Sunrise",
+    "descriptionText": "Iconic Brooklyn street with the Manhattan Bridge perfectly framed between brick buildings. A classic NYC shot.",
+    "tips": "Arrive before 7 AM or wait forever. The Empire State Building is visible through the bridge arch.",
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=800&q=80",
+      "https://images.pexels.com/photos/2350366/pexels-photo-2350366.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/2350366/pexels-photo-2350366.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
+    "isPremium": false
+  },
+  {
+    "name": "Top of the Rock",
+    "city": "New York",
+    "country": "USA",
+    "latitude": 40.7591,
+    "longitude": -73.9795,
+    "category": "skyline",
+    "crowdLevel": 4,
+    "accessDifficulty": "easy",
+    "bestTime": "Sunset",
+    "descriptionText": "Observation deck with the best unobstructed view of Central Park and the Manhattan skyline.",
+    "tips": "Book sunset tickets in advance. Bring a 24-70mm for skyline and a 50mm for Central Park detail.",
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1518391846015-55a9cc003b25?w=800&q=80",
+      "https://images.pexels.com/photos/1647971/pexels-photo-1647971.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1518391846015-55a9cc003b25?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/1647971/pexels-photo-1647971.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
+    "isPremium": true
+  },
+  {
+    "name": "Greenwich Village Townhouses",
+    "city": "New York",
+    "country": "USA",
+    "latitude": 40.7336,
+    "longitude": -74.0027,
+    "category": "street",
+    "crowdLevel": 2,
+    "accessDifficulty": "easy",
+    "bestTime": "Morning",
+    "descriptionText": "Charming brownstone streets with stoops, trees, and a distinctly New York residential vibe.",
+    "tips": "Bleecker and Bedford Streets offer the best brownstone facades. Morning light is soft and warm.",
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1496588152823-86ff7695e68f?w=800&q=80",
+      "https://images.pexels.com/photos/1619317/pexels-photo-1619317.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1496588152823-86ff7695e68f?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/1619317/pexels-photo-1619317.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
+    "isPremium": true
+  },
+  {
+    "name": "Brooklyn Heights Promenade",
+    "city": "New York",
+    "country": "USA",
+    "latitude": 40.6959,
+    "longitude": -73.9959,
+    "category": "skyline",
+    "crowdLevel": 3,
+    "accessDifficulty": "easy",
+    "bestTime": "Blue hour",
+    "descriptionText": "Elevated walkway with one of the best free views of Lower Manhattan, the Brooklyn Bridge, and the river.",
+    "tips": "Blue hour is unbeatable here. Bring a tripod for long exposures of the skyline lights.",
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=800&q=80",
+      "https://images.pexels.com/photos/255441/pexels-photo-255441.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/255441/pexels-photo-255441.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
+    "isPremium": true
+  },
+  {
+    "name": "Times Square from Above",
+    "city": "New York",
+    "country": "USA",
+    "latitude": 40.758,
+    "longitude": -73.9855,
+    "category": "neon",
+    "crowdLevel": 5,
+    "accessDifficulty": "moderate",
+    "bestTime": "Night",
+    "descriptionText": "The chaotic neon heart of New York, best captured from a rooftop or hotel overlooking the crossing.",
+    "tips": "Rooftop bars around Times Square offer the best angles. Book a table for sunset and stay for the lights.",
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1515896769750-31548aa180ed?w=800&q=80",
+      "https://images.pexels.com/photos/1534560/pexels-photo-1534560.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1515896769750-31548aa180ed?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/1534560/pexels-photo-1534560.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
+    "isPremium": true
+  },
+  {
+    "name": "Gianicolo at Sunrise",
+    "city": "Rome",
+    "country": "Italy",
+    "latitude": 41.8948,
+    "longitude": 12.4614,
+    "category": "sunrise",
+    "crowdLevel": 2,
+    "accessDifficulty": "easy",
+    "bestTime": "Sunrise",
+    "descriptionText": "Panoramic terrace above Rome with golden sunrise light over domes and rooftops. A local favorite away from crowds.",
+    "tips": "Best reached by scooter or early taxi. The view toward St. Peter's Dome is iconic in morning light.",
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=800&q=80",
+      "https://images.pexels.com/photos/3052360/pexels-photo-3052360.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/3052360/pexels-photo-3052360.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
+    "isPremium": true
+  },
+  {
+    "name": "Trastevere Alleys",
+    "city": "Rome",
+    "country": "Italy",
+    "latitude": 41.8895,
+    "longitude": 12.4668,
+    "category": "street",
+    "crowdLevel": 3,
+    "accessDifficulty": "easy",
+    "bestTime": "Evening",
+    "descriptionText": "Cobblestone streets, ivy-covered walls, and warm evening lights make Trastevere the most photogenic neighborhood in Rome.",
+    "tips": "Wander without a map. Piazza Santa Maria in Trastevere is a great starting point at blue hour.",
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1531572753322-ad063cecc140?w=800&q=80",
+      "https://images.pexels.com/photos/1191375/pexels-photo-1191375.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1531572753322-ad063cecc140?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/1191375/pexels-photo-1191375.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
+    "isPremium": false
+  },
+  {
+    "name": "Colosseum from Via degli Annibaldi",
+    "city": "Rome",
+    "country": "Italy",
+    "latitude": 41.8902,
+    "longitude": 12.4922,
+    "category": "architecture",
+    "crowdLevel": 4,
+    "accessDifficulty": "easy",
+    "bestTime": "Sunrise",
+    "descriptionText": "Classic sunrise angle of the Colosseum with warm light hitting the ancient stones. Far less crowded than the main entrance.",
+    "tips": "Get there at 6:30 AM. A 35mm lens captures the Colosseum framed by the street perfectly.",
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1526401485004-46910ecc8e51?w=800&q=80",
+      "https://images.pexels.com/photos/1371360/pexels-photo-1371360.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1526401485004-46910ecc8e51?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/1371360/pexels-photo-1371360.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
+    "isPremium": true
+  },
+  {
+    "name": "Pincian Hill Terrace",
+    "city": "Rome",
+    "country": "Italy",
+    "latitude": 41.9107,
+    "longitude": 12.4777,
+    "category": "sunset",
+    "crowdLevel": 3,
+    "accessDifficulty": "easy",
+    "bestTime": "Sunset",
+    "descriptionText": "Elegant terrace overlooking Piazza del Popolo and the city rooftops. A romantic sunset spot beloved by locals.",
+    "tips": "Combine with a walk through Villa Borghese. The sunset backlight over the domes is magical.",
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=800&q=80",
+      "https://images.pexels.com/photos/532826/pexels-photo-532826.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/532826/pexels-photo-532826.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
+    "isPremium": true
+  },
+  {
+    "name": "Campo de' Fiori Market",
+    "city": "Rome",
+    "country": "Italy",
+    "latitude": 41.8956,
+    "longitude": 12.4721,
+    "category": "food",
+    "crowdLevel": 4,
+    "accessDifficulty": "easy",
+    "bestTime": "Morning",
+    "descriptionText": "Vibrant morning market with flowers, fruits, and local produce. Perfect for colorful food and street photography.",
+    "tips": "Visit before 10 AM when vendors are fully set up and the light is still soft. Ask before taking close-ups.",
+    "examplePhotoURLs": [
+      "https://images.unsplash.com/photo-1531572753322-ad063cecc140?w=800&q=80",
+      "https://images.pexels.com/photos/466685/pexels-photo-466685.jpeg?auto=compress&cs=tinysrgb&w=800"
+    ],
+    "photoCredits": [
+      {
+        "url": "https://images.unsplash.com/photo-1531572753322-ad063cecc140?w=800&q=80",
+        "source": "Unsplash",
+        "photographer": "Unsplash Photographer",
+        "photographerUrl": "https://unsplash.com"
+      },
+      {
+        "url": "https://images.pexels.com/photos/466685/pexels-photo-466685.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "source": "Pexels",
+        "photographer": "Pexels Photographer",
+        "photographerUrl": "https://pexels.com"
+      }
+    ],
+    "isPremium": true
   }
 ]

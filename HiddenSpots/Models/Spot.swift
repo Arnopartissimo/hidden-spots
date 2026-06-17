@@ -73,6 +73,13 @@ enum AccessDifficulty: String, Codable, Identifiable {
     }
 }
 
+struct PhotoCredit: Codable {
+    let url: String
+    let source: String
+    let photographer: String
+    let photographerUrl: String
+}
+
 @Model
 class Spot {
     @Attribute(.unique) var id: UUID
@@ -88,6 +95,7 @@ class Spot {
     var descriptionText: String
     var tips: String
     var examplePhotoURLs: [String]
+    var photoCredits: [PhotoCredit]
     var isPremium: Bool
     
     init(id: UUID = UUID(),
@@ -103,6 +111,7 @@ class Spot {
          descriptionText: String,
          tips: String,
          examplePhotoURLs: [String],
+         photoCredits: [PhotoCredit] = [],
          isPremium: Bool = true) {
         self.id = id
         self.name = name
@@ -117,6 +126,7 @@ class Spot {
         self.descriptionText = descriptionText
         self.tips = tips
         self.examplePhotoURLs = examplePhotoURLs
+        self.photoCredits = photoCredits
         self.isPremium = isPremium
     }
     

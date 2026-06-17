@@ -35,6 +35,7 @@ struct SpotDTO: Codable {
     let descriptionText: String
     let tips: String
     let examplePhotoURLs: [String]
+    let photoCredits: [PhotoCredit]?
     let isPremium: Bool
     
     func toSpot() -> Spot {
@@ -52,6 +53,7 @@ struct SpotDTO: Codable {
             descriptionText: descriptionText,
             tips: tips,
             examplePhotoURLs: examplePhotoURLs,
+            photoCredits: photoCredits ?? [],
             isPremium: isPremium
         )
     }

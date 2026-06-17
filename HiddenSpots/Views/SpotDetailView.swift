@@ -67,6 +67,25 @@ struct SpotDetailView: View {
                 }
                 .padding(.vertical, 8)
                 
+                // Photo credits
+                if !spot.photoCredits.isEmpty {
+                    Text("Photo Credits")
+                        .font(.headline)
+                        .padding(.top, 8)
+                    
+                    VStack(alignment: .leading, spacing: 4) {
+                        ForEach(spot.photoCredits, id: \.url) { credit in
+                            if let photographerURL = URL(string: credit.photographerUrl) {
+                                Link(destination: photographerURL) {
+                                    Text("Photo by \(credit.photographer) on \(credit.source)")
+                                        .font(.caption)
+                                        .foregroundStyle(.secondary)
+                                }
+                            }
+                        }
+                    }
+                }
+                
                 // Paywall for premium spots
                 if !viewModel.canViewSpot(spot) {
                     PremiumPaywallView()
@@ -162,6 +181,9 @@ struct PremiumPaywallView: View {
             descriptionText: "Best panoramic view of Lisbon with the castle and the river. Less crowded than other miradouros.",
             tips: "Arrive 30 min before sunset. Use a 24-70mm lens. The light on the castle is best in summer.",
             examplePhotoURLs: [],
+            photoCredits: [
+                PhotoCredit(url: "", source: "Unsplash", photographer: "Unsplash Photographer", photographerUrl: "https://unsplash.com")
+            ],
             isPremium: true
         ),
         viewModel: SpotViewModel()
