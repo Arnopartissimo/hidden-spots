@@ -90,7 +90,21 @@ Utiliser **SF Pro** (police système iOS).
 
 ### 3.3 Composants principaux
 
-#### Bottom Navigation (3 onglets)
+#### Bottom Navigation (4 onglets en V2)
+
+**MVP (3 onglets)** :
+```
+[Map]  [Spots]  [Profile]
+```
+
+**V2+ (4 onglets)** :
+```
+[Map]  [Spots]  [Challenges]  [Profile]
+```
+
+- Icônes SF Symbols : `map.fill`, `photo.stack.fill`, `trophy.fill`, `person.fill`
+- Labels sous les icônes.
+- Barre translucide avec blur.
 ```
 [Map]  [Spots]  [Profile]
 ```
@@ -259,6 +273,46 @@ Utiliser **SF Pro** (police système iOS).
 - CTA principal : "Start free trial".
 - Petit texte : "Cancel anytime".
 
+### 4.7 Gamification Screens
+
+#### Profile / Progression
+```
+┌─────────────────────────┐
+│ Profile                 │
+│ [Avatar] Name           │
+│ Light Chaser  ▓▓▓▓▓░░░  │
+│ 1,240 SP                │
+│                         │
+│ 🏅 Badges (12/45)       │
+│ 🔥 Active Week Streak: 3│
+│ 📸 Spots visited: 24    │
+│                         │
+│ My Album                │
+│ [grid of photos]        │
+│                         │
+│ [Bottom nav]            │
+└─────────────────────────┘
+```
+
+#### Badge Unlocked Celebration
+- Full-screen modal avec badge animé.
+- Titre : "Badge Unlocked".
+- Nom du badge + description.
+- Bouton "Share" et "Continue".
+- Confetti subtil + haptic success.
+
+#### Level Up Screen
+- Animation de la barre de progression qui se remplit.
+- Nouveau titre et badge affichés.
+- Récompenses débloquées listées.
+- CTA : "Explore new spots".
+
+#### Challenges Feed
+- Cartes de challenges avec image thématique.
+- Countdown, nombre de participants, prix.
+- Bouton "Join Challenge".
+- Leaderboard temporaire accessible en tap.
+
 ---
 
 ## 5. Micro-interactions & animations
@@ -346,7 +400,22 @@ Utiliser **SF Pro** (police système iOS).
 
 ---
 
-## 10. Ressources
+## 11. Gamification
+
+La gamification est intégrée progressivement dans l'expérience. Voir le guide détaillé :
+**GAMIFICATION_DESIGN.md**
+
+Points clés UX :
+- Shutter Points (SP) gagnés en visitant des spots réellement.
+- Niveaux de photographe avec progression visible.
+- Badges par catégorie photo, ville et action.
+- Streak hebdomadaire (pas quotidien) pour éviter la pression.
+- Challenges photo communautaires.
+- Leaderboards segmentés par ville/amis/semaine.
+
+---
+
+## 12. Ressources
 
 - Apple Human Interface Guidelines : https://developer.apple.com/design/human-interface-guidelines
 - SF Symbols : https://developer.apple.com/sf-symbols/

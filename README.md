@@ -45,6 +45,13 @@ HiddenSpots/
     └── HiddenSpotsTests.swift
 ```
 
+## Design & Planning Docs
+
+- `DESIGN_GUIDE.md` — Direction visuelle, design system, UX et micro-interactions
+- `GAMIFICATION_DESIGN.md` — Système de gamification : points, badges, niveaux, challenges
+- `TECH_PLAN.md` — Architecture technique et stack MVP
+- `CURATION_BRIEF.md` — Processus de curation des spots photo
+
 ## Getting Started
 
 1. Open `HiddenSpots` folder in Xcode.
